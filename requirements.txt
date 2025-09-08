@@ -1,0 +1,8 @@
+pandas
+openpyxl
+numpy
+matplotlib
+plotly
+openai
+powerbiclient
+streamlit
